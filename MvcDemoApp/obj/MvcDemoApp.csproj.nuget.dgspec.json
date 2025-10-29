@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rovic.i.b.buensuceso\\Source\\Repos\\UseCaseDemo\\MvcDemoApp\\MvcDemoApp.csproj": {}
+    "C:\\Users\\rovic.i.b.buensuceso\\Source\\Repos\\UseCase1\\MvcDemoApp\\MvcDemoApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rovic.i.b.buensuceso\\Source\\Repos\\UseCaseDemo\\MvcDemoApp\\MvcDemoApp.csproj": {
+    "C:\\Users\\rovic.i.b.buensuceso\\Source\\Repos\\UseCase1\\MvcDemoApp\\MvcDemoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rovic.i.b.buensuceso\\Source\\Repos\\UseCaseDemo\\MvcDemoApp\\MvcDemoApp.csproj",
+        "projectUniqueName": "C:\\Users\\rovic.i.b.buensuceso\\Source\\Repos\\UseCase1\\MvcDemoApp\\MvcDemoApp.csproj",
         "projectName": "MvcDemoApp",
-        "projectPath": "C:\\Users\\rovic.i.b.buensuceso\\Source\\Repos\\UseCaseDemo\\MvcDemoApp\\MvcDemoApp.csproj",
+        "projectPath": "C:\\Users\\rovic.i.b.buensuceso\\Source\\Repos\\UseCase1\\MvcDemoApp\\MvcDemoApp.csproj",
         "packagesPath": "C:\\Users\\rovic.i.b.buensuceso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rovic.i.b.buensuceso\\Source\\Repos\\UseCaseDemo\\MvcDemoApp\\obj\\",
+        "outputPath": "C:\\Users\\rovic.i.b.buensuceso\\Source\\Repos\\UseCase1\\MvcDemoApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
